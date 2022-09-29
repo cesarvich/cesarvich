@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cesarvich "César Augusto" , Brazilian 27 years old, from Belo Horizonte MINAS GERAIS
+- 👋 Hi, I’m @cesarvich "César Augusto" , Brazilian 28 years old, from Belo Horizonte - MINAS GERAIS - -> Brazil
 - 👀 I’m interested in web development and self-improvement
-- 🌱 I’m currently into JavaScript, .NET and MongoDB
+- 🌱 I’m currently into JavaScript, .NET(ASP.NET) and MongoDB/SQL.
 - 💞️ I’m looking to collaborate on open projects and jobs opportunities
 - 📫 You canf find me on Twitter and Instagram, search for -- >  @lecesarx
 
